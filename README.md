@@ -1,5 +1,7 @@
 # vouchermakan
 
-
-#Jeneng database : sna
-#table : import from sql
+config : connection;
+details : cetak;
+pegawai.sql : tabel;
+searchgeneral : cari;
+action : autocomplete search;
