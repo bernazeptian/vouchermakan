@@ -1,5 +1,5 @@
 # vouchermakan
 
 
-Jeneng database : sna
-table : import from sql
+#Jeneng database : sna
+#table : import from sql
